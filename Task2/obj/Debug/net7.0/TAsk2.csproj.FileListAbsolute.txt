@@ -1,0 +1,14 @@
+C:\Users\User\01_CSHARP\TAsk2\bin\Debug\net7.0\TAsk2.exe
+C:\Users\User\01_CSHARP\TAsk2\bin\Debug\net7.0\TAsk2.deps.json
+C:\Users\User\01_CSHARP\TAsk2\bin\Debug\net7.0\TAsk2.runtimeconfig.json
+C:\Users\User\01_CSHARP\TAsk2\bin\Debug\net7.0\TAsk2.dll
+C:\Users\User\01_CSHARP\TAsk2\bin\Debug\net7.0\TAsk2.pdb
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.AssemblyInfoInputs.cache
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.AssemblyInfo.cs
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.dll
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\refint\TAsk2.dll
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.pdb
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\TAsk2.genruntimeconfig.cache
+C:\Users\User\01_CSHARP\TAsk2\obj\Debug\net7.0\ref\TAsk2.dll
