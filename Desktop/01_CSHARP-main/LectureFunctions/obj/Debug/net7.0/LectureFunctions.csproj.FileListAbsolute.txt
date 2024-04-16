@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\bin\Debug\net7.0\LectureFunctions.exe
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\bin\Debug\net7.0\LectureFunctions.deps.json
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\bin\Debug\net7.0\LectureFunctions.runtimeconfig.json
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\bin\Debug\net7.0\LectureFunctions.dll
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\bin\Debug\net7.0\LectureFunctions.pdb
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.AssemblyInfo.cs
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.dll
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\refint\LectureFunctions.dll
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.pdb
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\LectureFunctions.genruntimeconfig.cache
+C:\Users\User\Desktop\01_CSHARP-main\LectureFunctions\obj\Debug\net7.0\ref\LectureFunctions.dll
